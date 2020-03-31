@@ -1,0 +1,19 @@
+{
+  "name": "com.gameanalytics",
+  "version": "6.0.14",
+  "displayName": "GameAnalytics SDK",
+  "description": "The GameAnalytics SDK for tracking events in Unity.",
+  "unity": "2019.3",
+  "unityRelease": "6f1",
+  "dependencies": {},
+  "keywords": [
+    "GameAnalytics",
+    "Analytics",
+    "Statistics"
+  ],
+  "author": {
+    "name": "Arzhang Mosaffa",
+    "email": "n0ise9914@live.com",
+    "url": "https://github.com/n0ise9914/GA-SDK-UNITY"
+  }
+}
