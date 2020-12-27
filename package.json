@@ -1,5 +1,5 @@
 {
-  "name": "com.gameanalytics",
+  "name": "com.gameanalytics.unity-sdk",
   "version": "6.0.14",
   "displayName": "GameAnalytics SDK",
   "description": "The GameAnalytics SDK for tracking events in Unity.",
